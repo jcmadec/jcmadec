@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c’est <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Jcmadec+%F0%9F%91%8B;Bienvenue+sur+mon+GitHub+%F0%9F%8C%90" alt="Typing SVG" /></h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Jcmadec+%F0%9F%91%8B;Bienvenue+sur+mon+GitHub+%F0%9F%8C%90" alt="Typing SVG" />
 
 ## Hi there 👋
 <!--
