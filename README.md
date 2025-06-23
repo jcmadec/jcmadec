@@ -1,6 +1,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Jcmadec+%F0%9F%91%8B;Bienvenue+sur+mon+GitHub+%F0%9F%8C%90" alt="Typing SVG" />
 
-## Hi there 👋
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+> 
 <!--
 **jcmadec/jcmadec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
